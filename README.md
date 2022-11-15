@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Riccyooes
-- 👀 I’m interested in ...сфер  IT
-- 🌱 I’m currently learning ..В 10 классе
+- 👀 I’m interested in сферa IT
+- 🌱 I’m currently learning В 10 классе
 -- 📫 How to reach me. VK  https://vk.com/moroccopors
 
 <!---
